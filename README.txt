@@ -1,34 +1,40 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+#digitalportfolio.github.io
+A professional portfolio showcasing my projects in Business Analysis, Supply Chain Management, and Data Analytics, built with HTML5 and hosted on GitHub Pages.
 
+Bukola Adesuji – Portfolio Website
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+Welcome to my portfolio! This repository hosts my professional portfolio website, designed to highlight my expertise in Business Analysis, Supply Chain Management, Procurement, and Data Analytics.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+The site provides an overview of my background, signature skills, and selected projects that demonstrate my ability to bridge IT and business operations, improve processes, and deliver measurable results.
 
-(* = Not included)
+# Features
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+## About Me – A brief introduction and career summary.
 
-AJ
-aj@lkn.io | @ajlkn
+## Signature Skills – Core technical and professional competencies.
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+## Projects
 
+Supply Chain Management Projects
 
-Credits:
+Business Intelligence Projects
 
-	Demo Images:
-		Unsplash (unsplash.com)
+IT & Digital Transformation Projects
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Contact Links – GitHub, LinkedIn, and Email for collaboration opportunities.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+# Tech Stack
+
+Frontend: HTML5, CSS3
+
+Template: HTML5UP (Read-Only theme)
+
+Hosting: GitHub Pages
+
+# Live Site
+
+[View My Portfolio] 
+
+This portfolio is continuously updated with new projects and achievements to reflect my professional growth.
+
+	
